@@ -1,0 +1,16 @@
+2024/09/28 20:46:44 main.go:82: Starting MyServer on port 8080
+2024/09/28 20:47:39 main.go:46: Started GET /
+2024/09/28 20:47:39 main.go:50: Completed in 306.0368ms
+2024/09/28 20:47:39 main.go:46: Started GET /favicon.ico
+2024/09/28 20:47:39 main.go:50: Completed in 999.2µs
+2024/09/28 20:47:45 main.go:46: Started GET /
+2024/09/28 20:47:45 main.go:50: Completed in 1.2591ms
+2024/09/28 20:55:26 main.go:84: Starting MyServer on port 8080
+2024/09/28 20:57:06 main.go:48: Started GET /
+2024/09/28 20:57:06 main.go:52: Completed in 56.3071ms
+2024/09/28 20:59:22 main.go:48: Started GET /
+2024/09/28 20:59:23 main.go:52: Completed in 216.1666ms
+2024/09/28 20:59:24 main.go:48: Started GET /about.html
+2024/09/28 20:59:24 main.go:52: Completed in 1.6913ms
+2024/09/28 20:59:55 main.go:48: Started GET /
+2024/09/28 20:59:55 main.go:52: Completed in 2.3596ms
