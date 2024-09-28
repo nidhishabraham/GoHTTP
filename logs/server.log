@@ -14,3 +14,8 @@
 2024/09/28 20:59:24 main.go:52: Completed in 1.6913ms
 2024/09/28 20:59:55 main.go:48: Started GET /
 2024/09/28 20:59:55 main.go:52: Completed in 2.3596ms
+2024/09/28 21:10:51 main.go:84: Starting MyServer on port 8080
+2024/09/28 21:11:05 main.go:48: Started GET /
+2024/09/28 21:11:05 main.go:52: Completed in 2.9976ms
+2024/09/28 21:11:09 main.go:48: Started GET /about.html
+2024/09/28 21:11:09 main.go:52: Completed in 3.1765ms
